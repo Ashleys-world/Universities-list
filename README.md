@@ -1,4 +1,4 @@
-# practice
+A webapp to search universities available in a country . This project was written using Vue.js and Bootstrap .
 
 This template should help get you started developing with Vue 3 in Vite.
 
